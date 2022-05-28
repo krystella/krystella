@@ -11,7 +11,7 @@ I decided to continue the specialization and have so far completed the following
 
 I'm currently pursuing the 4th course in the Specialization: _Exploratory Data Analysis_. I'm also currently working through _Scientific Computing with Python Certificiation_ via _freecodecamp.org_.
 
-
+Check out my latest project: [Human Activity Recognition Using Smartphones](R/Projects/JHU_Getting_and_Cleaning_Data/readme.md)
 
 
 <!---
